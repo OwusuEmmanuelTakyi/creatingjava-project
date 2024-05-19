@@ -1,0 +1,38 @@
+BEGIN
+    // Day 1: Creation of light and separation of light and darkness
+    CREATE light
+    SEPARATE light from darkness
+    LABEL "Day" as "1"
+    
+    // Day 2: Creation of sky and separation of waters
+    CREATE sky
+    SEPARATE waters (above from below sky)
+    LABEL "Day" as "2"
+    
+    // Day 3: Formation of dry land and vegetation
+    GATHER waters to reveal dry land
+    CREATE dry land
+    GROW vegetation on land
+    LABEL "Day" as "3"
+    
+    // Day 4: Placement of celestial bodies
+    CREATE celestial bodies (sun, moon, stars)
+    SET celestial bodies to mark time (days, seasons, years)
+    LABEL "Day" as "4"
+    
+    // Day 5: Creation of sea creatures and birds
+    CREATE sea creatures
+    CREATE birds
+    LABEL "Day" as "5"
+    
+    // Day 6: Creation of land animals and humans
+    CREATE land animals
+    CREATE humans
+    LABEL "Day" as "6"
+    
+    // Day 7: Rest and sanctification of the day
+    REST
+    BLESS "Day" as holy and sanctified
+    LABEL "Day" as "7"
+    
+END
